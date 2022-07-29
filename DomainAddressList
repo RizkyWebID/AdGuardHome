@@ -1,1 +1,135 @@
-
+###################
+# Data List AdGuard
+filters:
+- enabled: true
+  url: https://raw.githubusercontent.com/RizkyWebID/AdGuardHome/main/DomainAddressList
+  name: RizkyWebID Domain Address List
+  id: 100
+- enabled: true
+  url: https://abp.oisd.nl/basic/
+  name: OISD Blocklist Basic
+  id: 101
+- enabled: true
+  url: https://abpvn.com/android/abpvn.txt
+  name: 'VNM: ABPVN List'
+  id: 102
+- enabled: true
+  url: https://adaway.org/hosts.txt
+  name: AdAway Default Blocklist
+  id: 103
+- enabled: true
+  url: https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+  name: AdGuard DNS filter
+  id: 104
+- enabled: true
+  url: https://anti-ad.net/easylist.txt
+  name: 'CHN: anti-AD'
+  id: 105
+- enabled: true
+  url: https://easylist-downloads.adblockplus.org/easylistdutch.txt
+  name: 'NLD: Easylist'
+  id: 106
+- enabled: true
+  url: https://filtri-dns.ga/filtri.txt
+  name: 'ITA: Filtri-DNS'
+  id: 107
+- enabled: true
+  url: https://getadhell.com/standard-package.txt
+  name: Adhell Mobile device management 
+  id: 108
+- enabled: true
+  url: https://gist.githubusercontent.com/funkatron/4178744/raw/65d82527ea96b5f9e597bef38402711296ac29a2/adobe_activation_hosts.txt
+  name: Ed Finkler - Block Adobe
+  id: 109
+- enabled: true
+  url: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext
+  name: Yoyo Internet Services - Peter Lowe's List
+  id: 110
+- enabled: true
+  url: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
+  name: Yoyo Internet Services
+  id: 111
+- enabled: true
+  url: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt
+  name: 'IDN: ABPindo'
+  id: 112
+- enabled: true
+  url: https://raw.githubusercontent.com/anudeepND/youtubeadsblacklist/master/domainlist.txt
+  name: Block YouTube ADS
+  id: 113
+- enabled: true
+  url: https://raw.githubusercontent.com/cchevy/macedonian-pi-hole-blocklist/master/hosts.txt
+  name: 'MKD: Macedonian Pi-hole Blocklist'
+  id: 114
+- enabled: true
+  url: https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
+  name: WindowsSpyBlocker - Hosts spy rules
+  id: 115
+- enabled: true
+  url: https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareAdGuardHome.txt
+  name: Dandelion Sprout's Anti-Malware List
+  id: 116
+- enabled: true
+  url: https://raw.githubusercontent.com/DandelionSprout/adfilt/master/GameConsoleAdblockList.txt
+  name: Game Console Adblock List
+  id: 117
+- enabled: true
+  url: https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/NordicFiltersAdGuardHome.txt
+  name: 'NOR: Dandelion Sprouts nordiske filtre'
+  id: 118
+- enabled: true
+  url: https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/unwanted-iranian.txt
+  name: 'IRN: Unwanted Iranian domains'
+  id: 119
+- enabled: true
+  url: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/adguard.txt
+  name: Scam Blocklist by DurableNapkin
+  id: 120
+- enabled: true
+  url: https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
+  name: NoCoin Filter List
+  id: 121
+- enabled: true
+  url: https://raw.githubusercontent.com/laksa19/indo-ads/master/indo-ads.txt
+  name: Laksa19 ADS Indo
+  id: 122
+- enabled: true
+  url: https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt
+  name: 'SWE: Frellwit''s Swedish Hosts File'
+  id: 123
+- enabled: true
+  url: https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/hostfile.txt
+  name: 'POL: Polish filters for Pi hole'
+  id: 124
+- enabled: true
+  url: https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hosts
+  name: The Big List of Hacked Malware Web Sites
+  id: 125
+- enabled: true
+  url: https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV-AGH.txt
+  name: Perflyst and Dandelion Sprout's Smart-TV Blocklist
+  id: 126
+- enabled: true
+  url: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+  name: Steven Black Hosts
+  id: 127
+- enabled: true
+  url: https://raw.githubusercontent.com/yous/YousList/master/hosts.txt
+  name: 'KOR: YousList'
+  id: 128
+- enabled: true
+  url: https://someonewhocares.org/hosts/hosts
+  name: Some One Who Cares
+  id: 129
+- enabled: true
+  url: https://someonewhocares.org/hosts/zero/hosts
+  name: Dan Pollock's List
+  id: 130
+- enabled: true
+  url: https://www.micu.eu/adblock/ad_list.txt
+  name: Micu Adlist
+  id: 131
+- enabled: true
+  url: https://www.micu.eu/adblock/youtube_complete.txt
+  name: Micu Youtube
+  id: 132
