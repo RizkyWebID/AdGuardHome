@@ -1,0 +1,349 @@
+||r2---sn-npoeenle.googlevideo.com^
+||r5---sn-npoeenle.googlevideo.com^
+#||rr2---sn-npoeenle.googlevideo.com^
+
+||r1---sn-npoldn7e.googlevideo.com^
+||r5---sn-npoldn7e.googlevideo.com^
+
+#||rr3---sn-npoe7ne6.googlevideo.com^
+#||rr5---sn-npoe7ne6.googlevideo.com^
+
+#||rr1---sn-2uuxa3vh-2ah6.googlevideo.com^
+#||rr2---sn-2uuxa3vh-2ah6.googlevideo.com^
+#||rr3---sn-2uuxa3vh-2ah6.googlevideo.com^
+
+#||rr1---sn-2uuxa3vh-2ahl.googlevideo.com^
+#||rr2---sn-2uuxa3vh-2ahl.googlevideo.com^
+#||rr3---sn-2uuxa3vh-2ahl.googlevideo.com^
+#||rr4---sn-2uuxa3vh-2ahl.googlevideo.com^
+
+#||rr1---sn-2uuxa3vh-2ahz.googlevideo.com^
+#||rr2---sn-2uuxa3vh-2ahz.googlevideo.com^
+#||rr3---sn-2uuxa3vh-2ahz.googlevideo.com^
+
+||r3---sn-npoe7nz7.googlevideo.com^
+||r4---sn-npoe7ns7.googlevideo.com^
+
+||r3---sn-npoeenl7.googlevideo.com^
+||r4---sn-npoeenl7.googlevideo.com^
+
+||r1---sn-npoeens7.googlevideo.com^
+||r3---sn-npoeens7.googlevideo.com^
+
+||r1---sn-npoeene7.googlevideo.com^
+
+||r3---sn-npoeenlk.googlevideo.com^
+
+||r2---sn-npoe7nez.googlevideo.com^
+
+||r2---sn-npoe7nek.googlevideo.com^
+
+||r3---sn-npoe7ns7.googlevideo.com^
+
+#||rr2---sn-npoe7ns6.googlevideo.com^
+
+#||rr2---sn-npoe7nsy.googlevideo.com^
+
+||rr5---sn-npoldn7z.googlevideo.com^
+
+||r6---sn-npoeen7d.googlevideo.com^
+
+||r4---sn-npoldn7l.googlevideo.com^
+
+||r1---sn-npoeenll.googlevideo.com^
+
+||r5---sn-npoe7ney.googlevideo.com^
+
+||r3---sn-npoe7n7s.googlevideo.com^
+
+
+127.0.0.1 r1---sn-gqn-vu2l.googlevideo.com
+127.0.0.1 r4---sn-gqn-vu2s.googlevideo.com
+
+127.0.0.1 imageads.googleadservices.com 
+127.0.0.1 imageads1.googleadservices.com
+127.0.0.1 imageads2.googleadservices.com
+127.0.0.1 imageads3.googleadservices.com
+127.0.0.1 imageads4.googleadservices.com
+127.0.0.1 imageads5.googleadservices.com
+127.0.0.1 imageads6.googleadservices.com
+127.0.0.1 imageads7.googleadservices.com
+127.0.0.1 imageads8.googleadservices.com
+127.0.0.1 imageads9.googleadservices.com
+127.0.0.1 partner.googleadservices.com
+127.0.0.1 ads.doubleclick.net
+127.0.0.1 csi.gstatic.com
+# 127.0.0.1 s.ytimg.com
+127.0.0.1 ad.youtube.com
+127.0.0.1 ads.youtube.com
+127.0.0.1 youtube-nocookie.com
+127.0.0.1 www.youtube-nocookie.com
+127.0.0.1 s.youtube.com
+127.0.0.1 pagead.googlesyndication.com
+127.0.0.1 pagead1.googlesyndication.com
+127.0.0.1 pagead2.googlesyndication.com
+127.0.0.1 adservices.google.com
+127.0.0.1 www.googletagservices.com
+127.0.0.1 www-googletagmanager.l.google.com
+# 127.0.0.1 googleadapis.l.google.com
+127.0.0.1 www.googleadservices.com
+127.0.0.1 googleadservices.com
+127.0.0.1 googleads.g.doubleclick.net
+127.0.0.1 googleads4.g.doubleclick.net
+127.0.0.1 dts.innovid.com
+127.0.0.1 pixel.moatads.com
+127.0.0.1 rtd.tubemogul.com
+127.0.0.1 s.innovid.com
+127.0.0.1 pubads.g.doubleclick.net
+127.0.0.1 stats.g.doubleclick.net
+127.0.0.1 pagead.l.doubleclick.net
+127.0.0.1 s0.2mdn.net
+127.0.0.1 ad.doubleclick.net
+127.0.0.1 files.adform.net
+127.0.0.1 secure-ds.serving-sys.com
+127.0.0.1 securepubads.g.doubleclick.net
+127.0.0.1 2975c.v.fwmrm.net
+127.0.0.1 static.doubleclick.net
+127.0.0.1 ad-g.doubleclick.net
+127.0.0.1 ad.mo.doubleclick.net
+127.0.0.1 doubleclick.net
+127.0.0.1 fwmrm.net
+127.0.0.1 innovid.com
+127.0.0.1 2mdn.net
+127.0.0.1 hshh.org
+#
+# win10
+#
+127.0.0.1 a.ads1.msn.com
+127.0.0.1 a.ads2.msads.net
+127.0.0.1 a.ads2.msn.com
+127.0.0.1 a.rad.msn.com
+127.0.0.1 ac3.msn.com
+127.0.0.1 activity.windows.com
+127.0.0.1 adnexus.net
+127.0.0.1 adnxs.com
+127.0.0.1 ads.msn.com
+127.0.0.1 ads1.msads.net
+127.0.0.1 ads1.msn.com
+127.0.0.1 aidps.atdmt.com
+127.0.0.1 aka-cdn-ns.adtech.de
+127.0.0.1 array101-prod.do.dsp.mp.microsoft.com
+127.0.0.1 array102-prod.do.dsp.mp.microsoft.com
+127.0.0.1 array103-prod.do.dsp.mp.microsoft.com
+127.0.0.1 array104-prod.do.dsp.mp.microsoft.com
+127.0.0.1 b.ads1.msn.com
+127.0.0.1 b.ads2.msads.net
+127.0.0.1 b.rad.msn.com
+127.0.0.1 bingads.microsoft.com
+127.0.0.1 spynet2.microsoft.com
+127.0.0.1 spynetalt.microsoft.com
+127.0.0.1 spyneteurope.microsoft.akadns.net
+127.0.0.1 sqm.df.telemetry.microsoft.com
+127.0.0.1 sqm.telemetry.microsoft.com
+127.0.0.1 sqm.telemetry.microsoft.com.nsatc.net
+127.0.0.1 ssw.live.com
+127.0.0.1 storecatalogrevocation.storequality.microsoft.com
+127.0.0.1 survey.watson.microsoft.com
+127.0.0.1 t0.ssl.ak.dynamic.tiles.virtualearth.net
+127.0.0.1 t0.ssl.ak.tiles.virtualearth.net
+127.0.0.1 telecommand.telemetry.microsoft.com
+127.0.0.1 telecommand.telemetry.microsoft.com.nsatc.net
+127.0.0.1 telemetry.appex.bing.net
+127.0.0.1 telemetry.appex.bing.net:443
+127.0.0.1 telemetry.microsoft.com
+127.0.0.1 telemetry.urs.microsoft.com
+127.0.0.1 tsfe.trafficshaping.dsp.mp.microsoft.com
+127.0.0.1 v10.vortex-win.data.metron.live.com.nsatc.net
+127.0.0.1 v10.vortex-win.data.microsoft.com
+127.0.0.1 version.hybrid.api.here.com
+127.0.0.1 view.atdmt.com
+127.0.0.1 vortex-bn2.metron.live.com.nsatc.net
+127.0.0.1 vortex-cy2.metron.live.com.nsatc.net
+127.0.0.1 vortex-db5.metron.live.com.nsatc.net
+127.0.0.1 vortex-hk2.metron.live.com.nsatc.net
+127.0.0.1 vortex-sandbox.data.microsoft.com
+127.0.0.1 vortex-win.data.metron.live.com.nsatc.net
+127.0.0.1 vortex-win.data.microsoft.com
+127.0.0.1 vortex.data.glbdns2.microsoft.com
+127.0.0.1 vortex.data.metron.live.com.nsatc.net
+127.0.0.1 vortex.data.microsoft.com
+127.0.0.1 watson.live.com
+127.0.0.1 watson.microsoft.com
+127.0.0.1 watson.ppe.telemetry.microsoft.com
+127.0.0.1 watson.telemetry.microsoft.com
+127.0.0.1 watson.telemetry.microsoft.com.nsatc.net
+127.0.0.1 web.vortex.data.microsoft.com
+127.0.0.1 wes.df.telemetry.microsoft.com
+127.0.0.1 win10.ipv6.microsoft.com
+#
+# win7
+#
+127.0.0.1 cds1143.lon.llnw.net
+127.0.0.1 cds1269.lon.llnw.net
+127.0.0.1 cds20424.lcy.llnw.net
+127.0.0.1 cds20435.lcy.llnw.net
+127.0.0.1 cds20461.lcy.llnw.net
+127.0.0.1 cds339.lcy.llnw.net
+127.0.0.1 cds344.lcy.llnw.net
+127.0.0.1 cds407.fra.llnw.net
+127.0.0.1 compatexchange1.trafficmanager.net
+127.0.0.1 cy2.settings.data.microsoft.com.akadns.net
+127.0.0.1 db5.settings.data.microsoft.com.akadns.net
+127.0.0.1 eu.vortex.data.microsoft.com
+127.0.0.1 geo.settings.data.microsoft.com.akadns.net
+127.0.0.1 settings-win.data.microsoft.com
+127.0.0.1 spynet2.microsoft.com
+127.0.0.1 spyneteurope.microsoft.akadns.net
+127.0.0.1 sqm.telemetry.microsoft.com
+127.0.0.1 telecommand.telemetry.microsoft.com
+127.0.0.1 teredo.ipv6.microsoft.com
+127.0.0.1 vortex-win.data.microsoft.com
+127.0.0.1 watson.microsoft.com
+#
+# RO ads
+#
+127.0.0.1 icorpadro.hit.gemius.pl
+127.0.0.1 rogde.adocean.pl
+127.0.0.1 l.profitshare.ro
+127.0.0.1 ado.icorp.ro
+127.0.0.1 01.creativecdn.com
+127.0.0.1 2mdn.net
+127.0.0.1 7w.ro
+127.0.0.1 ad.dc2.adtech.de
+127.0.0.1 ad2.ip.ro
+127.0.0.1 admonitoring.bsgroup.ro
+127.0.0.1 adnxs.com
+127.0.0.1 ado.icorp.ro
+127.0.0.1 adocean.pl
+127.0.0.1 ads.tradeads.eu
+127.0.0.1 ads2.evz.ro
+127.0.0.1 adservingfactory.com
+127.0.0.1 adsymptotic.com
+127.0.0.1 akamai.smartadserver.com
+127.0.0.1 app.marketizator.com
+127.0.0.1 apps.thinkdigital.ro
+127.0.0.1 bat.bing.com
+127.0.0.1 bbcdn.ad2.ip.ro
+127.0.0.1 bbcdn.go.adevolution.bbelements.com
+127.0.0.1 bbcdn.go.cz.bbelements.com
+127.0.0.1 bidswitch.net
+127.0.0.1 block.sw1block.com
+127.0.0.1 brand.ad
+127.0.0.1 brat-online.ro
+127.0.0.1 bride.ru
+127.0.0.1 cdn.teads.tv
+127.0.0.1 content.ad20.net
+127.0.0.1 content.adunity.com
+127.0.0.1 content.zontera.com
+127.0.0.1 core.ad20.net
+127.0.0.1 core.adservingfactory.com
+127.0.0.1 ctx.inin.ro
+127.0.0.1 da.feedsportal.com
+127.0.0.1 data.tradeville.eu
+127.0.0.1 digital4ro.adocean.pl
+127.0.0.1 engageya.com
+127.0.0.1 evensys.ro$third-party
+127.0.0.1 ewatch.ro
+127.0.0.1 eyeviewads.com
+127.0.0.1 feedads.g.doubleclick.net
+127.0.0.1 flx1.com
+127.0.0.1 fx.gtop.ro
+127.0.0.1 gemius.pl
+127.0.0.1 go.netbet.ro
+127.0.0.1 gravityrd-services.com
+127.0.0.1 ib.adnxs.com
+127.0.0.1 js-agent.newrelic.com
+127.0.0.1 linkweb.ro
+127.0.0.1 media.leftclick.ro
+127.0.0.1 megapopads.com
+127.0.0.1 moatads.com
+127.0.0.1 new.cetrk.com
+127.0.0.1 omniconvert.com
+127.0.0.1 onlinesupaads.com
+127.0.0.1 pagefair.com
+127.0.0.1 parsely.com
+127.0.0.1 profiling.avandor.com
+127.0.0.1 projectagora.s3.amazonaws.com
+127.0.0.1 realitatero.adocean.pl
+127.0.0.1 recs.engageya.com
+127.0.0.1 retargeting-data.eu
+127.0.0.1 revsci.net
+127.0.0.1 ro.adocean.pl
+127.0.0.1 ro.noprimetime.com
+127.0.0.1 ro.search.etargetnet.com
+127.0.0.1 rt.awstaticdn.net
+127.0.0.1 s.atemda.com
+127.0.0.1 smartadserver.com
+127.0.0.1 st.ad.adnow.com
+127.0.0.1 st-n.ads1-adnow.com
+127.0.0.1 st-n.pc1ads.com
+127.0.0.1 storage.trafic.ro
+127.0.0.1 sync.teads.tv
+127.0.0.1 t00t2.com
+127.0.0.1 tags.crwdcntrl.net
+127.0.0.1 tinypass.com
+127.0.0.1 tynt.com
+
+127.0.0.1 zontera.com
+127.0.0.1 zopim.com
+127.0.0.1 arbocontext.ro
+127.0.0.1 cdata.carambo.la
+127.0.0.1 cdn.apture.com
+127.0.0.1 cdn.wibiya.com
+127.0.0.1 content.yieldmanager.edgesuite.net
+127.0.0.1 df7ok8j6on3a4.cloudfront.net
+127.0.0.1 pricefab.com
+127.0.0.1 pricerocket.net
+127.0.0.1 s.meebocdn.net
+127.0.0.1 s7.addthis.com
+127.0.0.1 w.sharethis.com
+127.0.0.1 whos.amung.us
+127.0.0.1 i.gyazo.com
+127.0.0.1 clickppcbuzz.com
+127.0.0.1 cdnjs.cloudflare.com
+127.0.0.1 bitadexchange.com
+127.0.0.1 n282adserv.com
+127.0.0.1 www376.playercdn.net
+127.0.0.1 api.peer5.com
+127.0.0.1 cdn-s9.vkcache.com
+127.0.0.1 ads.softure.com
+127.0.0.1 ad2.ip.ro
+127.0.0.1 ads.boom.ro
+127.0.0.1 s.boom.ro
+127.0.0.1 ads.neogen.ro
+127.0.0.1 adtarget.ro
+127.0.0.1 bride.ru
+127.0.0.1 traficdublu.ro
+127.0.0.1 files.adform.net
+127.0.0.1 secure-ds.serving-sys.com
+127.0.0.1 ads.mopub.com
+127.0.0.1 delivery-s3.adswizz.com
+127.0.0.1 s3.asdwizz.com
+127.0.0.1 tunein.deliveryengine.adswizz.com
+127.0.0.1 tunein.adswizz.com
+127.0.0.1 kinesis.eu-west-1.amazonaws.com
+127.0.0.1 in.mobile.azure.com
+127.0.0.1 app-measurement.com
+127.0.0.1 xtra.gpsonextra.net
+127.0.0.1 xtra1.gpsonextra.net
+127.0.0.1 xtra2.gpsonextra.net
+127.0.0.1 xtra3.gpsonextra.net
+127.0.0.1 xtra4.gpsonextra.net
+127.0.0.1 xtra5.gpsonextra.net
+127.0.0.1 xtra6.gpsonextra.net
+127.0.0.1 xtra7.gpsonextra.net
+127.0.0.1 xtra8.gpsonextra.net
+127.0.0.1 xtra9.gpsonextra.net
+127.0.0.1 geomobileservices-pa.googleapis.com
+127.0.0.1 serpens.iad.appboy.com
+127.0.0.1 profitsmart.ro
+127.0.0.1 profitshare.ro
+127.0.0.1 prg02s12-in-f14.1e100.net
+127.0.0.1 ads.pubmatic.com
+127.0.0.1 i.alza.cz
+127.0.0.1 bnr.alza.cz
+127.0.0.1 ordersymbolif.live
+127.0.0.1 new-adversting.com
+127.0.0.1 checkprizenow3.life
+127.0.0.1 node-eu1-b-2.jivosite.com
+127.0.0.1 tdsjsext6.com
