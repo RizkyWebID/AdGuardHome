@@ -351,3 +351,7 @@
 127.0.0.1 internetpositif.id
 127.0.0.1 games.uzone.id
 127.0.0.1 uzone.id
+
+127.0.0.1 id.server
+127.0.0.1 version.bind
+127.0.0.1 hostname.bind
